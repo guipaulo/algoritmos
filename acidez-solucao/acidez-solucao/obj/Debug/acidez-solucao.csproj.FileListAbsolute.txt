@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\acidez-solucao\acidez-solucao\bin\Debug\acidez-solucao.exe.config
+F:\MeusProjetos\algoritmos\acidez-solucao\acidez-solucao\bin\Debug\acidez-solucao.exe
+F:\MeusProjetos\algoritmos\acidez-solucao\acidez-solucao\bin\Debug\acidez-solucao.pdb
+F:\MeusProjetos\algoritmos\acidez-solucao\acidez-solucao\obj\Debug\acidez-solucao.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\acidez-solucao\acidez-solucao\obj\Debug\acidez-solucao.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\acidez-solucao\acidez-solucao\obj\Debug\acidez-solucao.exe
+F:\MeusProjetos\algoritmos\acidez-solucao\acidez-solucao\obj\Debug\acidez-solucao.pdb

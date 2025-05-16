@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\calculo-imc\calculo-imc\bin\Debug\calculo-imc.exe.config
+F:\MeusProjetos\algoritmos\calculo-imc\calculo-imc\bin\Debug\calculo-imc.exe
+F:\MeusProjetos\algoritmos\calculo-imc\calculo-imc\bin\Debug\calculo-imc.pdb
+F:\MeusProjetos\algoritmos\calculo-imc\calculo-imc\obj\Debug\calculo-imc.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\calculo-imc\calculo-imc\obj\Debug\calculo-imc.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\calculo-imc\calculo-imc\obj\Debug\calculo-imc.exe
+F:\MeusProjetos\algoritmos\calculo-imc\calculo-imc\obj\Debug\calculo-imc.pdb

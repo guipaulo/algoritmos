@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MeusProjetos\\algoritmos\\acidez-solucao\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{43C54446-FB6B-4B9D-BCB7-CF67E4D757E2}|acidez-solucao\\acidez-solucao.csproj|f:\\meusprojetos\\algoritmos\\acidez-solucao\\acidez-solucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{43C54446-FB6B-4B9D-BCB7-CF67E4D757E2}|acidez-solucao\\acidez-solucao.csproj|solutionrelative:acidez-solucao\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\algoritmos\\acidez-solucao\\acidez-solucao\\Program.cs",
+              "RelativeDocumentMoniker": "acidez-solucao\\Program.cs",
+              "ToolTip": "F:\\MeusProjetos\\algoritmos\\acidez-solucao\\acidez-solucao\\Program.cs",
+              "RelativeToolTip": "acidez-solucao\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-16T20:55:23.437Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
