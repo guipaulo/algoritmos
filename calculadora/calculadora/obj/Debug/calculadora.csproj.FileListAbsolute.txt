@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\calculadora\calculadora\bin\Debug\calculadora.exe.config
+F:\MeusProjetos\algoritmos\calculadora\calculadora\bin\Debug\calculadora.exe
+F:\MeusProjetos\algoritmos\calculadora\calculadora\bin\Debug\calculadora.pdb
+F:\MeusProjetos\algoritmos\calculadora\calculadora\obj\Debug\calculadora.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\calculadora\calculadora\obj\Debug\calculadora.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\calculadora\calculadora\obj\Debug\calculadora.exe
+F:\MeusProjetos\algoritmos\calculadora\calculadora\obj\Debug\calculadora.pdb

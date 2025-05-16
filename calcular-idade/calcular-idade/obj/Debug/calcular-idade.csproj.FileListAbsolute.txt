@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\calcular-idade\calcular-idade\bin\Debug\calcular-idade.exe.config
+F:\MeusProjetos\algoritmos\calcular-idade\calcular-idade\bin\Debug\calcular-idade.exe
+F:\MeusProjetos\algoritmos\calcular-idade\calcular-idade\bin\Debug\calcular-idade.pdb
+F:\MeusProjetos\algoritmos\calcular-idade\calcular-idade\obj\Debug\calcular-idade.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\calcular-idade\calcular-idade\obj\Debug\calcular-idade.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\calcular-idade\calcular-idade\obj\Debug\calcular-idade.exe
+F:\MeusProjetos\algoritmos\calcular-idade\calcular-idade\obj\Debug\calcular-idade.pdb
