@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\aluguel-veiculo\aluguel-veiculo\bin\Debug\aluguel-veiculo.exe.config
+F:\MeusProjetos\algoritmos\aluguel-veiculo\aluguel-veiculo\bin\Debug\aluguel-veiculo.exe
+F:\MeusProjetos\algoritmos\aluguel-veiculo\aluguel-veiculo\bin\Debug\aluguel-veiculo.pdb
+F:\MeusProjetos\algoritmos\aluguel-veiculo\aluguel-veiculo\obj\Debug\aluguel-veiculo.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\aluguel-veiculo\aluguel-veiculo\obj\Debug\aluguel-veiculo.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\aluguel-veiculo\aluguel-veiculo\obj\Debug\aluguel-veiculo.exe
+F:\MeusProjetos\algoritmos\aluguel-veiculo\aluguel-veiculo\obj\Debug\aluguel-veiculo.pdb
