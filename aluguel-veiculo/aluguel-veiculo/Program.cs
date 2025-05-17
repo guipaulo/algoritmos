@@ -21,7 +21,7 @@ namespace aluguel_veiculo
             int dias;
             int km;
             int totalDiaria;
-
+            
             Console.WriteLine("Por quantos dias deseja alugar o veículo: ");
             dias = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("Quantos km você percorreu: ");
@@ -32,9 +32,9 @@ namespace aluguel_veiculo
                 totalDiaria = (90*dias);
                 Console.WriteLine("Diária: " + totalDiaria);
             }
-            if (km > 100)
+            else
             {
-                totalDiaria = (90 * dias) + 12*(km - 100);
+                totalDiaria = (90 * dias) + 12 * (km - 100);
                 Console.WriteLine("Diária: " + totalDiaria);
             }
         }

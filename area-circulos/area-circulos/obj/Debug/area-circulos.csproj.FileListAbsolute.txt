@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\area-circulos\area-circulos\bin\Debug\area-circulos.exe.config
+F:\MeusProjetos\algoritmos\area-circulos\area-circulos\bin\Debug\area-circulos.exe
+F:\MeusProjetos\algoritmos\area-circulos\area-circulos\bin\Debug\area-circulos.pdb
+F:\MeusProjetos\algoritmos\area-circulos\area-circulos\obj\Debug\area-circulos.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\area-circulos\area-circulos\obj\Debug\area-circulos.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\area-circulos\area-circulos\obj\Debug\area-circulos.exe
+F:\MeusProjetos\algoritmos\area-circulos\area-circulos\obj\Debug\area-circulos.pdb
