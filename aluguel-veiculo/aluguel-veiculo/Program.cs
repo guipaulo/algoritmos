@@ -18,8 +18,9 @@ namespace aluguel_veiculo
                 total rodada por um cliente dessa locadora e exiba o valor total a ser pago.
              */
 
-            int dias;
+            int dias = 0;
             int km;
+            int cota;
             int totalDiaria;
             
             Console.WriteLine("Por quantos dias deseja alugar o veículo: ");
@@ -27,14 +28,16 @@ namespace aluguel_veiculo
             Console.WriteLine("Quantos km você percorreu: ");
             km = Convert.ToInt32(Console.ReadLine());
 
-            if (km <= 100) 
+             cota = (100 * dias);
+
+            if (km <= cota) 
             {
                 totalDiaria = (90*dias);
                 Console.WriteLine("Diária: " + totalDiaria);
             }
             else
             {
-                totalDiaria = (90 * dias) + 12 * (km - 100);
+                totalDiaria = (90 * dias) + 12 * (km - cota);
                 Console.WriteLine("Diária: " + totalDiaria);
             }
         }
