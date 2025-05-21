@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\livros-atraso\livros-atraso\bin\Debug\livros-atraso.exe.config
+F:\MeusProjetos\algoritmos\livros-atraso\livros-atraso\bin\Debug\livros-atraso.exe
+F:\MeusProjetos\algoritmos\livros-atraso\livros-atraso\bin\Debug\livros-atraso.pdb
+F:\MeusProjetos\algoritmos\livros-atraso\livros-atraso\obj\Debug\livros-atraso.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\livros-atraso\livros-atraso\obj\Debug\livros-atraso.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\livros-atraso\livros-atraso\obj\Debug\livros-atraso.exe
+F:\MeusProjetos\algoritmos\livros-atraso\livros-atraso\obj\Debug\livros-atraso.pdb
