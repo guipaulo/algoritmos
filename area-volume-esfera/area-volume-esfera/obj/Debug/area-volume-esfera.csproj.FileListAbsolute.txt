@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\area-volume-esfera\area-volume-esfera\bin\Debug\area-volume-esfera.exe.config
+F:\MeusProjetos\algoritmos\area-volume-esfera\area-volume-esfera\bin\Debug\area-volume-esfera.exe
+F:\MeusProjetos\algoritmos\area-volume-esfera\area-volume-esfera\bin\Debug\area-volume-esfera.pdb
+F:\MeusProjetos\algoritmos\area-volume-esfera\area-volume-esfera\obj\Debug\area-volume-esfera.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\area-volume-esfera\area-volume-esfera\obj\Debug\area-volume-esfera.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\area-volume-esfera\area-volume-esfera\obj\Debug\area-volume-esfera.exe
+F:\MeusProjetos\algoritmos\area-volume-esfera\area-volume-esfera\obj\Debug\area-volume-esfera.pdb

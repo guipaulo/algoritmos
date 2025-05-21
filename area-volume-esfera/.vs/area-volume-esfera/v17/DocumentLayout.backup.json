@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MeusProjetos\\algoritmos\\area-volume-esfera\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3CAC07D2-F226-4E05-858B-106DF4DD523B}|area-volume-esfera\\area-volume-esfera.csproj|f:\\meusprojetos\\algoritmos\\area-volume-esfera\\area-volume-esfera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3CAC07D2-F226-4E05-858B-106DF4DD523B}|area-volume-esfera\\area-volume-esfera.csproj|solutionrelative:area-volume-esfera\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\algoritmos\\area-volume-esfera\\area-volume-esfera\\Program.cs",
+              "RelativeDocumentMoniker": "area-volume-esfera\\Program.cs",
+              "ToolTip": "F:\\MeusProjetos\\algoritmos\\area-volume-esfera\\area-volume-esfera\\Program.cs*",
+              "RelativeToolTip": "area-volume-esfera\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-21T15:03:46.041Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
