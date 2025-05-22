@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\angulo-triangulo\angulo-triangulo\bin\Debug\angulo-triangulo.exe.config
+F:\MeusProjetos\algoritmos\angulo-triangulo\angulo-triangulo\bin\Debug\angulo-triangulo.exe
+F:\MeusProjetos\algoritmos\angulo-triangulo\angulo-triangulo\bin\Debug\angulo-triangulo.pdb
+F:\MeusProjetos\algoritmos\angulo-triangulo\angulo-triangulo\obj\Debug\angulo-triangulo.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\angulo-triangulo\angulo-triangulo\obj\Debug\angulo-triangulo.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\angulo-triangulo\angulo-triangulo\obj\Debug\angulo-triangulo.exe
+F:\MeusProjetos\algoritmos\angulo-triangulo\angulo-triangulo\obj\Debug\angulo-triangulo.pdb
