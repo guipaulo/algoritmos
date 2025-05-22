@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\divisibilidade\divisibilidade\bin\Debug\divisibilidade.exe.config
+F:\MeusProjetos\algoritmos\divisibilidade\divisibilidade\bin\Debug\divisibilidade.exe
+F:\MeusProjetos\algoritmos\divisibilidade\divisibilidade\bin\Debug\divisibilidade.pdb
+F:\MeusProjetos\algoritmos\divisibilidade\divisibilidade\obj\Debug\divisibilidade.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\divisibilidade\divisibilidade\obj\Debug\divisibilidade.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\divisibilidade\divisibilidade\obj\Debug\divisibilidade.exe
+F:\MeusProjetos\algoritmos\divisibilidade\divisibilidade\obj\Debug\divisibilidade.pdb
