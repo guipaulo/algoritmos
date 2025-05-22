@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\administradora-cartao\administradora-cartao\bin\Debug\administradora-cartao.exe.config
+F:\MeusProjetos\algoritmos\administradora-cartao\administradora-cartao\bin\Debug\administradora-cartao.exe
+F:\MeusProjetos\algoritmos\administradora-cartao\administradora-cartao\bin\Debug\administradora-cartao.pdb
+F:\MeusProjetos\algoritmos\administradora-cartao\administradora-cartao\obj\Debug\administradora-cartao.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\administradora-cartao\administradora-cartao\obj\Debug\administradora-cartao.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\administradora-cartao\administradora-cartao\obj\Debug\administradora-cartao.exe
+F:\MeusProjetos\algoritmos\administradora-cartao\administradora-cartao\obj\Debug\administradora-cartao.pdb
