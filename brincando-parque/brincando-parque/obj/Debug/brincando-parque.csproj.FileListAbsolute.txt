@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\brincando-parque\brincando-parque\bin\Debug\brincando-parque.exe.config
+F:\MeusProjetos\algoritmos\brincando-parque\brincando-parque\bin\Debug\brincando-parque.exe
+F:\MeusProjetos\algoritmos\brincando-parque\brincando-parque\bin\Debug\brincando-parque.pdb
+F:\MeusProjetos\algoritmos\brincando-parque\brincando-parque\obj\Debug\brincando-parque.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\brincando-parque\brincando-parque\obj\Debug\brincando-parque.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\brincando-parque\brincando-parque\obj\Debug\brincando-parque.exe
+F:\MeusProjetos\algoritmos\brincando-parque\brincando-parque\obj\Debug\brincando-parque.pdb
