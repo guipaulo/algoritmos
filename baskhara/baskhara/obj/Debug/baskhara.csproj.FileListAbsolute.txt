@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\baskhara\baskhara\bin\Debug\baskhara.exe.config
+F:\MeusProjetos\algoritmos\baskhara\baskhara\bin\Debug\baskhara.exe
+F:\MeusProjetos\algoritmos\baskhara\baskhara\bin\Debug\baskhara.pdb
+F:\MeusProjetos\algoritmos\baskhara\baskhara\obj\Debug\baskhara.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\baskhara\baskhara\obj\Debug\baskhara.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\baskhara\baskhara\obj\Debug\baskhara.exe
+F:\MeusProjetos\algoritmos\baskhara\baskhara\obj\Debug\baskhara.pdb
