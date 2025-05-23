@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\media-ponderada\media-ponderada\bin\Debug\media-ponderada.exe.config
+F:\MeusProjetos\algoritmos\media-ponderada\media-ponderada\bin\Debug\media-ponderada.exe
+F:\MeusProjetos\algoritmos\media-ponderada\media-ponderada\bin\Debug\media-ponderada.pdb
+F:\MeusProjetos\algoritmos\media-ponderada\media-ponderada\obj\Debug\media-ponderada.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\media-ponderada\media-ponderada\obj\Debug\media-ponderada.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\media-ponderada\media-ponderada\obj\Debug\media-ponderada.exe
+F:\MeusProjetos\algoritmos\media-ponderada\media-ponderada\obj\Debug\media-ponderada.pdb
