@@ -14,8 +14,11 @@ namespace baskhara
             double B = 0;
             double C = 0;
 
+            Console.WriteLine("Digite o valor do coeficiente A: ");
             A = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Digite o valor do coeficiente B: ");
             B = Convert.ToDouble(Console.ReadLine());
+            Console.WriteLine("Digite o valor do coeficiente C: ");
             C = Convert.ToDouble(Console.ReadLine());
 
             double delta = (Math.Pow(B, 2) - (4*A*C));
