@@ -23,8 +23,6 @@ namespace maior_numero
             {
                 num1 = maior;
                 num2 = menor;
-
-                Console.WriteLine(maior + " " + menor);
             }
             else
             {
@@ -32,8 +30,8 @@ namespace maior_numero
                 {
                     num1 = menor;
                     num2 = maior;
-                    Console.WriteLine(maior + " " + menor);
                 }
+            Console.WriteLine(maior + " " + menor);
             }
         }
     }
