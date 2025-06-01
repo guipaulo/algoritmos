@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MeusProjetos\\algoritmos\\10-multiplos\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9F9308F5-04DB-48DD-90FA-CF1301945155}|10-multiplos\\10-multiplos.csproj|f:\\meusprojetos\\algoritmos\\10-multiplos\\10-multiplos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F9308F5-04DB-48DD-90FA-CF1301945155}|10-multiplos\\10-multiplos.csproj|solutionrelative:10-multiplos\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\algoritmos\\10-multiplos\\10-multiplos\\Program.cs",
+              "RelativeDocumentMoniker": "10-multiplos\\Program.cs",
+              "ToolTip": "F:\\MeusProjetos\\algoritmos\\10-multiplos\\10-multiplos\\Program.cs*",
+              "RelativeToolTip": "10-multiplos\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:02:06.629Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

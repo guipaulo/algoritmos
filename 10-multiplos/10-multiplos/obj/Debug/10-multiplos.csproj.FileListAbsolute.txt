@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\10-multiplos\10-multiplos\bin\Debug\10-multiplos.exe.config
+F:\MeusProjetos\algoritmos\10-multiplos\10-multiplos\bin\Debug\10-multiplos.exe
+F:\MeusProjetos\algoritmos\10-multiplos\10-multiplos\bin\Debug\10-multiplos.pdb
+F:\MeusProjetos\algoritmos\10-multiplos\10-multiplos\obj\Debug\10-multiplos.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\10-multiplos\10-multiplos\obj\Debug\10-multiplos.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\10-multiplos\10-multiplos\obj\Debug\10-multiplos.exe
+F:\MeusProjetos\algoritmos\10-multiplos\10-multiplos\obj\Debug\10-multiplos.pdb
