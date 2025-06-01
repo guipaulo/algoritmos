@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MeusProjetos\\algoritmos\\maior-numero\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4AA74ED-9F74-46F4-AC04-C5F51A520A2B}|maior-numero\\maior-numero.csproj|f:\\meusprojetos\\algoritmos\\maior-numero\\maior-numero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4AA74ED-9F74-46F4-AC04-C5F51A520A2B}|maior-numero\\maior-numero.csproj|solutionrelative:maior-numero\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\algoritmos\\maior-numero\\maior-numero\\Program.cs",
+              "RelativeDocumentMoniker": "maior-numero\\Program.cs",
+              "ToolTip": "F:\\MeusProjetos\\algoritmos\\maior-numero\\maior-numero\\Program.cs",
+              "RelativeToolTip": "maior-numero\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAA1wBIAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T23:20:13.824Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

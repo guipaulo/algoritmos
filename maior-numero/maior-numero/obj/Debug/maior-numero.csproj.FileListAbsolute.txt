@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\maior-numero\maior-numero\bin\Debug\maior-numero.exe.config
+F:\MeusProjetos\algoritmos\maior-numero\maior-numero\bin\Debug\maior-numero.exe
+F:\MeusProjetos\algoritmos\maior-numero\maior-numero\bin\Debug\maior-numero.pdb
+F:\MeusProjetos\algoritmos\maior-numero\maior-numero\obj\Debug\maior-numero.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\maior-numero\maior-numero\obj\Debug\maior-numero.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\maior-numero\maior-numero\obj\Debug\maior-numero.exe
+F:\MeusProjetos\algoritmos\maior-numero\maior-numero\obj\Debug\maior-numero.pdb
