@@ -10,7 +10,7 @@ namespace anos_bisextos
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Digite dois anos bisextos: ");
+            Console.WriteLine("Digite dois anos bissextos: ");
             int ano1 = Convert.ToInt32(Console.ReadLine());
             int ano2 = Convert.ToInt32(Console.ReadLine());
 
