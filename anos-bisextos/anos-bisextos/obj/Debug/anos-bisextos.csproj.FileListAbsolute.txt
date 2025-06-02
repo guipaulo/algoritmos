@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\anos-bisextos\anos-bisextos\bin\Debug\anos-bisextos.exe.config
+F:\MeusProjetos\algoritmos\anos-bisextos\anos-bisextos\bin\Debug\anos-bisextos.exe
+F:\MeusProjetos\algoritmos\anos-bisextos\anos-bisextos\bin\Debug\anos-bisextos.pdb
+F:\MeusProjetos\algoritmos\anos-bisextos\anos-bisextos\obj\Debug\anos-bisextos.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\anos-bisextos\anos-bisextos\obj\Debug\anos-bisextos.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\anos-bisextos\anos-bisextos\obj\Debug\anos-bisextos.exe
+F:\MeusProjetos\algoritmos\anos-bisextos\anos-bisextos\obj\Debug\anos-bisextos.pdb
