@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\Exemplo-for\Exemplo-for\bin\Debug\Exemplo-for.exe.config
+F:\MeusProjetos\algoritmos\Exemplo-for\Exemplo-for\bin\Debug\Exemplo-for.exe
+F:\MeusProjetos\algoritmos\Exemplo-for\Exemplo-for\bin\Debug\Exemplo-for.pdb
+F:\MeusProjetos\algoritmos\Exemplo-for\Exemplo-for\obj\Debug\Exemplo-for.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\Exemplo-for\Exemplo-for\obj\Debug\Exemplo-for.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\Exemplo-for\Exemplo-for\obj\Debug\Exemplo-for.exe
+F:\MeusProjetos\algoritmos\Exemplo-for\Exemplo-for\obj\Debug\Exemplo-for.pdb
