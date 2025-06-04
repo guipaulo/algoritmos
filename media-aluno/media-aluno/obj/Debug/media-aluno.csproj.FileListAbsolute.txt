@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\media-aluno\media-aluno\bin\Debug\media-aluno.exe.config
+F:\MeusProjetos\algoritmos\media-aluno\media-aluno\bin\Debug\media-aluno.exe
+F:\MeusProjetos\algoritmos\media-aluno\media-aluno\bin\Debug\media-aluno.pdb
+F:\MeusProjetos\algoritmos\media-aluno\media-aluno\obj\Debug\media-aluno.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\media-aluno\media-aluno\obj\Debug\media-aluno.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\media-aluno\media-aluno\obj\Debug\media-aluno.exe
+F:\MeusProjetos\algoritmos\media-aluno\media-aluno\obj\Debug\media-aluno.pdb

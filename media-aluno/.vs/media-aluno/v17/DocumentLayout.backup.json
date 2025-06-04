@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MeusProjetos\\algoritmos\\media-aluno\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{693E79C6-B7DE-4083-8670-B6A3354397AB}|media-aluno\\media-aluno.csproj|f:\\meusprojetos\\algoritmos\\media-aluno\\media-aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{693E79C6-B7DE-4083-8670-B6A3354397AB}|media-aluno\\media-aluno.csproj|solutionrelative:media-aluno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\algoritmos\\media-aluno\\media-aluno\\Program.cs",
+              "RelativeDocumentMoniker": "media-aluno\\Program.cs",
+              "ToolTip": "F:\\MeusProjetos\\algoritmos\\media-aluno\\media-aluno\\Program.cs*",
+              "RelativeToolTip": "media-aluno\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBQAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T23:37:21.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

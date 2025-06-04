@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\mayara\mayara\obj\Debug\mayara.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\mayara\mayara\obj\Debug\mayara.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\mayara\mayara\bin\Debug\mayara.exe.config
+F:\MeusProjetos\algoritmos\mayara\mayara\bin\Debug\mayara.exe
+F:\MeusProjetos\algoritmos\mayara\mayara\bin\Debug\mayara.pdb
+F:\MeusProjetos\algoritmos\mayara\mayara\obj\Debug\mayara.exe
+F:\MeusProjetos\algoritmos\mayara\mayara\obj\Debug\mayara.pdb
