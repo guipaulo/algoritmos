@@ -47,7 +47,7 @@ namespace matrizes
                 {
                     Console.Write(nome[linha, coluna] + " ");
                 }
-            }   Console.WriteLine();
+            }   Console.WriteLine("\n");
         }
     }
 }
