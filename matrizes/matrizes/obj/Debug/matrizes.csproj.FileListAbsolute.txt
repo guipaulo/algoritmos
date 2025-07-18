@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\matrizes\matrizes\bin\Debug\matrizes.exe.config
+F:\MeusProjetos\algoritmos\matrizes\matrizes\bin\Debug\matrizes.exe
+F:\MeusProjetos\algoritmos\matrizes\matrizes\bin\Debug\matrizes.pdb
+F:\MeusProjetos\algoritmos\matrizes\matrizes\obj\Debug\matrizes.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\matrizes\matrizes\obj\Debug\matrizes.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\matrizes\matrizes\obj\Debug\matrizes.exe
+F:\MeusProjetos\algoritmos\matrizes\matrizes\obj\Debug\matrizes.pdb
