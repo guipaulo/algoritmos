@@ -40,13 +40,19 @@ namespace matrizes
                 Console.WriteLine();
             }
 
-            for (int linha = 0; linha < 2; linha ++)
+            for (int linha = 0; linha <= 1; i++)
             {
-                for(int coluna = 0; coluna <2; coluna++)
+                for (int coluna = 0; coluna <= 1; j++)
                 {
-                    Console.Write(nome[linha, coluna] + " ");
+                    matriz[linha, coluna] = Convert.ToDouble(Console.ReadLine());
+
+                    if (matriz[linha, coluna] > maior)
+                    {
+                        maior = matriz[linha, coluna];
+                    }
                 }
-            }   Console.WriteLine();
+            }
+            Console.WriteLine();
         }
     }
 }

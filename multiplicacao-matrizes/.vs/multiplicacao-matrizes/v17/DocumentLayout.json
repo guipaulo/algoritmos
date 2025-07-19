@@ -3,8 +3,7 @@
   "WorkspaceRootPath": "F:\\MeusProjetos\\algoritmos\\multiplicacao-matrizes\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{FC9C28F7-2732-49D2-89A6-62AD9203F14D}|multiplicacao-matrizes\\multiplicacao-matrizes.csproj|f:\\meusprojetos\\algoritmos\\multiplicacao-matrizes\\multiplicacao-matrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FC9C28F7-2732-49D2-89A6-62AD9203F14D}|multiplicacao-matrizes\\multiplicacao-matrizes.csproj|solutionrelative:multiplicacao-matrizes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|F:\\MeusProjetos\\algoritmos\\matrizes\\matrizes\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,13 +19,13 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "F:\\MeusProjetos\\algoritmos\\multiplicacao-matrizes\\multiplicacao-matrizes\\Program.cs",
-              "RelativeDocumentMoniker": "multiplicacao-matrizes\\Program.cs",
-              "ToolTip": "F:\\MeusProjetos\\algoritmos\\multiplicacao-matrizes\\multiplicacao-matrizes\\Program.cs",
-              "RelativeToolTip": "multiplicacao-matrizes\\Program.cs",
-              "ViewState": "AgIAABYAAAAAAAAAAAAmwCgAAAA7AAAAAAAAAA==",
+              "DocumentMoniker": "F:\\MeusProjetos\\algoritmos\\matrizes\\matrizes\\Program.cs",
+              "RelativeDocumentMoniker": "..\\matrizes\\matrizes\\Program.cs",
+              "ToolTip": "F:\\MeusProjetos\\algoritmos\\matrizes\\matrizes\\Program.cs",
+              "RelativeToolTip": "..\\matrizes\\matrizes\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-18T23:59:56.945Z",
+              "WhenOpened": "2025-07-19T23:55:14.58Z",
               "EditorCaption": ""
             }
           ]
