@@ -37,9 +37,8 @@ namespace matrizes
                 {
                     nome[linha, coluna] = Console.ReadLine();
                 }
+                Console.WriteLine();
             }
-
-            Console.WriteLine();
 
             for (int linha = 0; linha < 2; linha ++)
             {
@@ -47,7 +46,7 @@ namespace matrizes
                 {
                     Console.Write(nome[linha, coluna] + " ");
                 }
-            }   Console.WriteLine("\n");
+            }   Console.WriteLine();
         }
     }
 }

@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\multiplicacao-matrizes\multiplicacao-matrizes\bin\Debug\multiplicacao-matrizes.exe.config
+F:\MeusProjetos\algoritmos\multiplicacao-matrizes\multiplicacao-matrizes\bin\Debug\multiplicacao-matrizes.exe
+F:\MeusProjetos\algoritmos\multiplicacao-matrizes\multiplicacao-matrizes\bin\Debug\multiplicacao-matrizes.pdb
+F:\MeusProjetos\algoritmos\multiplicacao-matrizes\multiplicacao-matrizes\obj\Debug\multiplicacao-matrizes.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\multiplicacao-matrizes\multiplicacao-matrizes\obj\Debug\multiplicacao-matrizes.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\multiplicacao-matrizes\multiplicacao-matrizes\obj\Debug\multiplicacao-matrizes.exe
+F:\MeusProjetos\algoritmos\multiplicacao-matrizes\multiplicacao-matrizes\obj\Debug\multiplicacao-matrizes.pdb
