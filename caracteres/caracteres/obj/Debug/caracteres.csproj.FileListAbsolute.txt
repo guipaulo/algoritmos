@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\caracteres\caracteres\bin\Debug\caracteres.exe.config
+F:\MeusProjetos\algoritmos\caracteres\caracteres\bin\Debug\caracteres.exe
+F:\MeusProjetos\algoritmos\caracteres\caracteres\bin\Debug\caracteres.pdb
+F:\MeusProjetos\algoritmos\caracteres\caracteres\obj\Debug\caracteres.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\caracteres\caracteres\obj\Debug\caracteres.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\caracteres\caracteres\obj\Debug\caracteres.exe
+F:\MeusProjetos\algoritmos\caracteres\caracteres\obj\Debug\caracteres.pdb
