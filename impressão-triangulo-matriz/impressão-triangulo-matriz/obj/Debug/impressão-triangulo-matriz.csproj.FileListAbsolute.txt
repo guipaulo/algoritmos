@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\impressão-triangulo-matriz\impressão-triangulo-matriz\bin\Debug\impressão-triangulo-matriz.exe.config
+F:\MeusProjetos\algoritmos\impressão-triangulo-matriz\impressão-triangulo-matriz\bin\Debug\impressão-triangulo-matriz.exe
+F:\MeusProjetos\algoritmos\impressão-triangulo-matriz\impressão-triangulo-matriz\bin\Debug\impressão-triangulo-matriz.pdb
+F:\MeusProjetos\algoritmos\impressão-triangulo-matriz\impressão-triangulo-matriz\obj\Debug\impressão-triangulo-matriz.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\impressão-triangulo-matriz\impressão-triangulo-matriz\obj\Debug\impressão-triangulo-matriz.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\impressão-triangulo-matriz\impressão-triangulo-matriz\obj\Debug\impressão-triangulo-matriz.exe
+F:\MeusProjetos\algoritmos\impressão-triangulo-matriz\impressão-triangulo-matriz\obj\Debug\impressão-triangulo-matriz.pdb

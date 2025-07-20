@@ -1,0 +1,2 @@
+F:\MeusProjetos\algoritmos\matrizes-2\matrizes-2\obj\Debug\matrizes-2.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\matrizes-2\matrizes-2\obj\Debug\matrizes-2.csproj.CoreCompileInputs.cache
