@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\matrizes2207\matrizes2207\bin\Debug\matrizes2207.exe.config
+F:\MeusProjetos\algoritmos\matrizes2207\matrizes2207\bin\Debug\matrizes2207.exe
+F:\MeusProjetos\algoritmos\matrizes2207\matrizes2207\bin\Debug\matrizes2207.pdb
+F:\MeusProjetos\algoritmos\matrizes2207\matrizes2207\obj\Debug\matrizes2207.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\matrizes2207\matrizes2207\obj\Debug\matrizes2207.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\matrizes2207\matrizes2207\obj\Debug\matrizes2207.exe
+F:\MeusProjetos\algoritmos\matrizes2207\matrizes2207\obj\Debug\matrizes2207.pdb
