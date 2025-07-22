@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\matriz3exercicio\matriz3exercicio\bin\Debug\matriz3exercicio.exe.config
+F:\MeusProjetos\algoritmos\matriz3exercicio\matriz3exercicio\bin\Debug\matriz3exercicio.exe
+F:\MeusProjetos\algoritmos\matriz3exercicio\matriz3exercicio\bin\Debug\matriz3exercicio.pdb
+F:\MeusProjetos\algoritmos\matriz3exercicio\matriz3exercicio\obj\Debug\matriz3exercicio.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\matriz3exercicio\matriz3exercicio\obj\Debug\matriz3exercicio.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\matriz3exercicio\matriz3exercicio\obj\Debug\matriz3exercicio.exe
+F:\MeusProjetos\algoritmos\matriz3exercicio\matriz3exercicio\obj\Debug\matriz3exercicio.pdb
