@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\nova-matriz\nova-matriz\bin\Debug\nova-matriz.exe.config
+F:\MeusProjetos\algoritmos\nova-matriz\nova-matriz\bin\Debug\nova-matriz.exe
+F:\MeusProjetos\algoritmos\nova-matriz\nova-matriz\bin\Debug\nova-matriz.pdb
+F:\MeusProjetos\algoritmos\nova-matriz\nova-matriz\obj\Debug\nova-matriz.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\nova-matriz\nova-matriz\obj\Debug\nova-matriz.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\nova-matriz\nova-matriz\obj\Debug\nova-matriz.exe
+F:\MeusProjetos\algoritmos\nova-matriz\nova-matriz\obj\Debug\nova-matriz.pdb
