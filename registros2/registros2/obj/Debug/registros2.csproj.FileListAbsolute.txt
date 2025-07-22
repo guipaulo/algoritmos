@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\registros2\registros2\bin\Debug\registros2.exe.config
+F:\MeusProjetos\algoritmos\registros2\registros2\bin\Debug\registros2.exe
+F:\MeusProjetos\algoritmos\registros2\registros2\bin\Debug\registros2.pdb
+F:\MeusProjetos\algoritmos\registros2\registros2\obj\Debug\registros2.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\registros2\registros2\obj\Debug\registros2.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\registros2\registros2\obj\Debug\registros2.exe
+F:\MeusProjetos\algoritmos\registros2\registros2\obj\Debug\registros2.pdb
