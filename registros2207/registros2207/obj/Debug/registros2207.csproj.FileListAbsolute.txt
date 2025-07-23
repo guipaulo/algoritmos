@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\registros2207\registros2207\bin\Debug\registros2207.exe.config
+F:\MeusProjetos\algoritmos\registros2207\registros2207\bin\Debug\registros2207.exe
+F:\MeusProjetos\algoritmos\registros2207\registros2207\bin\Debug\registros2207.pdb
+F:\MeusProjetos\algoritmos\registros2207\registros2207\obj\Debug\registros2207.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\registros2207\registros2207\obj\Debug\registros2207.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\registros2207\registros2207\obj\Debug\registros2207.exe
+F:\MeusProjetos\algoritmos\registros2207\registros2207\obj\Debug\registros2207.pdb
