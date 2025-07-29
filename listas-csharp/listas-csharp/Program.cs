@@ -51,6 +51,20 @@ namespace listas_csharp
             {
                 Console.WriteLine(i);
             }
+
+            Console.WriteLine();
+
+            List<int> numeros2 = new List<int>();
+
+            for (int i = 0; i < 5; i++)
+            {
+                numeros2.Add (i);
+            }
+
+            foreach (int i in numeros2)
+            {
+                Console.WriteLine(i);
+            }
         }
     }
 }
