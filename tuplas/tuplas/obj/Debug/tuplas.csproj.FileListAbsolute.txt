@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\tuplas\tuplas\bin\Debug\tuplas.exe.config
+F:\MeusProjetos\algoritmos\tuplas\tuplas\bin\Debug\tuplas.exe
+F:\MeusProjetos\algoritmos\tuplas\tuplas\bin\Debug\tuplas.pdb
+F:\MeusProjetos\algoritmos\tuplas\tuplas\obj\Debug\tuplas.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\tuplas\tuplas\obj\Debug\tuplas.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\tuplas\tuplas\obj\Debug\tuplas.exe
+F:\MeusProjetos\algoritmos\tuplas\tuplas\obj\Debug\tuplas.pdb
