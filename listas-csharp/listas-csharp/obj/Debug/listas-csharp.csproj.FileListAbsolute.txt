@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\listas-csharp\listas-csharp\bin\Debug\listas-csharp.exe.config
+F:\MeusProjetos\algoritmos\listas-csharp\listas-csharp\bin\Debug\listas-csharp.exe
+F:\MeusProjetos\algoritmos\listas-csharp\listas-csharp\bin\Debug\listas-csharp.pdb
+F:\MeusProjetos\algoritmos\listas-csharp\listas-csharp\obj\Debug\listas-csharp.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\listas-csharp\listas-csharp\obj\Debug\listas-csharp.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\listas-csharp\listas-csharp\obj\Debug\listas-csharp.exe
+F:\MeusProjetos\algoritmos\listas-csharp\listas-csharp\obj\Debug\listas-csharp.pdb
