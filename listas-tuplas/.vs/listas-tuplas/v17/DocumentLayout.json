@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\MeusProjetos\\algoritmos\\listas-tuplas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{67B586AB-3847-4865-A0D4-A2A21EDF4120}|listas-tuplas\\listas-tuplas.csproj|f:\\meusprojetos\\algoritmos\\listas-tuplas\\listas-tuplas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{67B586AB-3847-4865-A0D4-A2A21EDF4120}|listas-tuplas\\listas-tuplas.csproj|solutionrelative:listas-tuplas\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\MeusProjetos\\algoritmos\\listas-tuplas\\listas-tuplas\\Program.cs",
+              "RelativeDocumentMoniker": "listas-tuplas\\Program.cs",
+              "ToolTip": "F:\\MeusProjetos\\algoritmos\\listas-tuplas\\listas-tuplas\\Program.cs",
+              "RelativeToolTip": "listas-tuplas\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-06T01:02:39.223Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

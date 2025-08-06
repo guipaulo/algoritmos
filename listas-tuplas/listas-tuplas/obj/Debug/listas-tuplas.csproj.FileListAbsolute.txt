@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\listas-tuplas\listas-tuplas\bin\Debug\listas-tuplas.exe.config
+F:\MeusProjetos\algoritmos\listas-tuplas\listas-tuplas\bin\Debug\listas-tuplas.exe
+F:\MeusProjetos\algoritmos\listas-tuplas\listas-tuplas\bin\Debug\listas-tuplas.pdb
+F:\MeusProjetos\algoritmos\listas-tuplas\listas-tuplas\obj\Debug\listas-tuplas.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\listas-tuplas\listas-tuplas\obj\Debug\listas-tuplas.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\listas-tuplas\listas-tuplas\obj\Debug\listas-tuplas.exe
+F:\MeusProjetos\algoritmos\listas-tuplas\listas-tuplas\obj\Debug\listas-tuplas.pdb
