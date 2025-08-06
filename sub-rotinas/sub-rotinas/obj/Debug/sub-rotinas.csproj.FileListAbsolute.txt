@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\sub-rotinas\sub-rotinas\bin\Debug\sub-rotinas.exe.config
+F:\MeusProjetos\algoritmos\sub-rotinas\sub-rotinas\bin\Debug\sub-rotinas.exe
+F:\MeusProjetos\algoritmos\sub-rotinas\sub-rotinas\bin\Debug\sub-rotinas.pdb
+F:\MeusProjetos\algoritmos\sub-rotinas\sub-rotinas\obj\Debug\sub-rotinas.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\sub-rotinas\sub-rotinas\obj\Debug\sub-rotinas.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\sub-rotinas\sub-rotinas\obj\Debug\sub-rotinas.exe
+F:\MeusProjetos\algoritmos\sub-rotinas\sub-rotinas\obj\Debug\sub-rotinas.pdb
