@@ -1,0 +1,7 @@
+F:\MeusProjetos\algoritmos\passagem-parametros\passagem-parametros\bin\Debug\passagem-parametros.exe.config
+F:\MeusProjetos\algoritmos\passagem-parametros\passagem-parametros\bin\Debug\passagem-parametros.exe
+F:\MeusProjetos\algoritmos\passagem-parametros\passagem-parametros\bin\Debug\passagem-parametros.pdb
+F:\MeusProjetos\algoritmos\passagem-parametros\passagem-parametros\obj\Debug\passagem-parametros.csproj.AssemblyReference.cache
+F:\MeusProjetos\algoritmos\passagem-parametros\passagem-parametros\obj\Debug\passagem-parametros.csproj.CoreCompileInputs.cache
+F:\MeusProjetos\algoritmos\passagem-parametros\passagem-parametros\obj\Debug\passagem-parametros.exe
+F:\MeusProjetos\algoritmos\passagem-parametros\passagem-parametros\obj\Debug\passagem-parametros.pdb
