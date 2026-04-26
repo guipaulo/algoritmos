@@ -15,7 +15,7 @@ namespace _10_multiplos
             Console.Clear();
             for (int i = 1; i <= 10; i++) 
             {
-                Console.WriteLine(numero * i);
+                Console.WriteLine($"{numero} + {i} = {numero * i}");
             }
         }
     }
